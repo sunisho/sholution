@@ -1,10 +1,13 @@
 modalID: 4
-title: Company Conference App
-subtitle: Event app for internal global marketing conference.
+title: Internal Company Event App
+subtitle: ""
 date: 2015
-img: escapes.png
-preview: escape-preview.png
+img: abconference.jpg
+preview: abconference-preview.jpg
 client: Anheuser-Busch
 clientLink: "http://www.anheuser-busch.com/"
 category: Product
-description: Escape is a free PSD web template built by [Mathavan Jaya](//www.behance.net/MathavanJaya). Escape is a one page web template that was designed with agencies in mind. This template is ideal for those looking for a simple one page solution to describe your business and offer your services. <br><br>You can download the PSD template in this portfolio sample item at [FreebiesXpress.com](//freebiesxpress.com/gallery/escape-one-page-psd-web-template/).
+description: "<ul><li>Developed & launched an event app for an internal conference that brought together Anheuser-Busch's global marketing teams</li>
+<li>Contracted mobile app developer and led the process from beginning to end</li>
+<li>App included Bluetooth Low Energy Beacons & Other Geolocation technologies</li>
+</ul>"

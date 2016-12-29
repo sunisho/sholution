@@ -1,10 +1,13 @@
 modalID: 2
 title: UX & Financial Modeling
-subtitle: for a life sciences tech startup.
+subtitle: ""
 date: 2016
-img: startup-frameworks.png
-preview: startup-framework-preview.png
+img: ux.png
+preview: ux-preview.png
 client: Confidential
 clientLink: "#"
 category: Product
-description: "Lorem ipsum"
+description: "<ul><li>Developed a financial model projecting P&L over 18 months.</li>
+<li>Optimized their initial web launch for better UX flow.</li>
+<li>Created User journey diagrams.</li>
+<li>Developed email schedule.</li></ul>"

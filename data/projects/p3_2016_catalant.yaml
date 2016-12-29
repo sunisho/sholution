@@ -1,10 +1,13 @@
 modalID: 3
-title: Vendor Landscaping
-subtitle: for an online marketplace.
+title: Vendor Landscape & Recommendation
+subtitle: ""
 date: 2016
-img: treehouses.png
-preview: treehouse-preview.png
+img: paymentvendor.png
+preview: paymentvendor-preview.png
 client: Confidential
 clientLink: "#"
-category: Product
-description: Lorem ipsum
+category: Growth
+description: "<ul><li>Curated a list of the leading online payment processors and gateways</li>
+<li>Based on the client's requirements, made a recommendation on the top 3</li>
+<li>Recommended an optimized technological architecture that accommodates their rapid growth</li>
+</ul>"

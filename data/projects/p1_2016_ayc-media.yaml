@@ -1,10 +1,13 @@
 modalID: 1
 title: CPG Sales Strategy
-subtitle: for a digital marketing agency.
+subtitle: ""
 date: 2016
-img: roundiconss.png
-preview: roundicons-preview.png
+img: "budweiser.jpg"
+preview: "budweiser-preview.jpg"
 client: Confidential
 clientLink: "#"
 category: Growth
-description: "Lorem ipsum."
+description: "<ul><li>Optimized sales pitch decks to win more CPG contracts from existing clients</li>
+<li>Developed new marketing solutions to expand their portfolio of services</li>
+<li>Implemented a structured creative process to boost their innovation process</li>
+<li>Developed email schedule.</li></ul>"

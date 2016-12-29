@@ -1,10 +1,13 @@
 modalID: 5
-title: Beer Me
-subtitle: Twitter-enabled on-demand beer delivery service.
+title: "@BeerMe"
+subtitle: ""
 date: 2014
-img: golden.png
-preview: golden-preview.png
-client: Anheuser-Busch
-clientLink: "https://twitter.com/beerme/"
+img: beerme.jpg
+preview: beerme-preview.jpg
+client: See Press Review
+clientLink: "http://www.venuestoday.com/news/detail/beerme-appetize-centerplate-0106"
 category: Product
-description: Twitter-enabled on-demand beer delivery service, live-tested at two Miami Dolphins homegames.
+description: "<ul><li>Developed & launched an on-demand, twitter-enabled Beer Delivery service</li>
+<li>Piloted live at two Miami Dolphins home games in 2014</li>
+<li>Consumers would tweet '@BeerMe' their order and location and a Hawker would deliver their beer within minutes.</li>
+<li>Partnered with Appetize & Twitter</li></ul>"

@@ -84,7 +84,7 @@ googleAnalytics = ""
   [params.services]
     enable = true
     title = "Services"
-    subtitle = "I can help your company in a number of different ways, listed below. If you have some other need and you don't see it, reach out. If I can't help you, I may know someone who can."
+    subtitle = "I have expertise in various areas that can help you grow and make great products. <BR>If you don't see your need listed below, reach out - if I can't help you, I may know someone who can."
 
     [[params.services.row]]
 
@@ -120,18 +120,18 @@ googleAnalytics = ""
     # About section
   [params.about]
     enable = false
-    #title = "About"
-    #subtitle = "Lorem ipsum dolor sit amet consectetur."
-    #endpoint = "Be part<br>of our<br>story!"
+    title = "About"
+    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    endpoint = "Be part<br>of our<br>story!"
 
     # The events will be listed from the top to the bottom.
     # All images are stored under 'static/img/about'.
     # Replace them with your own.
-    #[[params.about.events]]
-    #  img = "1.jpg"
-    #  date = "2013-2016"
-    #  title = "Leading Innovation & Strategy for the World's Biggest Beer Brands"
-    #  description = "Blah blah beer garage blah blah"
+    [[params.about.events]]
+      img = "1.jpg"
+      date = "2013-2016"
+      title = "Leading Innovation & Strategy for the World's Biggest Beer Brands"
+      description = "Blah blah beer garage blah blah"
 
   # Team section
   [params.team]
@@ -211,8 +211,8 @@ googleAnalytics = ""
     email = "sunish@sholution.com"
 
     # Success and error message overwrite for async contact form
-    #thanks = "Thank you for awesomely contacting us."
-    #error = "Message could not be send. Please contact us at mail@example.com instead."
+    thanks = "Thank you for contacting us."
+    error = "Message could not be sent. Please contact Sunish directly via LinkedIn."
 
     # 'warning' defines error messages for invalid inputs
     [params.contact.form.name]
@@ -224,8 +224,8 @@ googleAnalytics = ""
       warning = "Please enter your email address."
 
     [params.contact.form.phone]
-      text = "Your Phone *"
-      warning = "Please enter your phone number."
+      text = "Your Phone (All numbers no dashes or spaces) *"
+      warning = "Please enter your phone number - all numbers no dashes or spaces"
 
     [params.contact.form.message]
       text = "Your Message *"
