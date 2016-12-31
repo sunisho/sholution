@@ -212,7 +212,7 @@ googleAnalytics = ""
 
     # Success and error message overwrite for async contact form
     thanks = "Thank you for contacting us."
-    error = "Message could not be sent. Please contact Sunish directly via LinkedIn."
+    #error = "Message could not be sent. Please contact Sunish directly via LinkedIn."
 
     # 'warning' defines error messages for invalid inputs
     [params.contact.form.name]
